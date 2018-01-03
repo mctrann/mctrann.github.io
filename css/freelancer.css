@@ -244,35 +244,35 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #68186;
   color: #fff; }
 
 .copyright {
-  background-color: #1a252f; }
+  background-color: #E6E6E6; }
 
 a {
-  color: #18BC9C; }
+  color: #1a252f; }
   a:focus, a:hover, a:active {
-    color: #128f76; }
+    color: #2c3e50!important; }
 
 .btn {
   border-width: 2px; }
 
 .bg-primary {
-  background-color: #18BC9C !important; }
+  background-color: #681816 !important; }
 
 .bg-secondary {
   background-color: #2C3E50 !important; }
 
 .text-primary {
-  color: #18BC9C !important; }
+  color: #1a252f !important; }
 
 .text-secondary {
   color: #2C3E50 !important; }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C; }
+  background-color: ;
+  border-color: #681816; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background-color: #128f76;
     border-color: #128f76; }
