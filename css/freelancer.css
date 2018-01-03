@@ -117,10 +117,10 @@ section {
     #mainNav .navbar-nav {
       margin-top: 0; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-      color: #fff;
-      background: #18BC9C; }
+      color: #fff!important;
+      background: ##65A0F2; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-        color: #fff;
+        color: #fff!important;
         background: #65A0F2; }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
