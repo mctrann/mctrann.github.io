@@ -275,8 +275,8 @@ a {
   background-color: #BCD3F2 !important;
   border-color: #681816; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #128f76;
-    border-color: #128f76; }
+    background-color: #BCD3F2;
+    border-color: #BCD3F2; }
 
 .btn-secondary {
   background-color: #2C3E50;
