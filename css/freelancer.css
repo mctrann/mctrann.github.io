@@ -93,7 +93,7 @@ section {
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: #fff; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: #BCD3F2; }
+        color: #BCD3F2!important; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
         color: #fff; }
       #mainNav .navbar-nav li.nav-item a.nav-link.active {
