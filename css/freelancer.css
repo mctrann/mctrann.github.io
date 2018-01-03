@@ -254,7 +254,7 @@ form .row:first-child .floating-label-form-group {
 a {
   color: #1a252f; }
   a:focus, a:hover, a:active {
-    color: #2c3e50!important; }
+    color: #2c3e50; }
 
 .btn {
   border-width: 2px; }
